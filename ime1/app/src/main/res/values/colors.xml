@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="candidate_normal">#FFffffff</color>
+    <color name="candidate_recommended">#FFE35900</color>
+    <color name="candidate_other">#ff808080</color>
+    <color name="candidate_background">#bbffffff</color>
+
+    <color name="qwerty1_background">#da000291</color>
+    <color name="arabic_alpha_background">#e9862502</color>
+    <color name="arabic_normal_background">#da030303</color>
+    <color name="arabic_old_background">#c6b9aa25</color>
+    <color name="arabic_result_background">#c41e4d4a</color>
+    <color name="arabic_seed_background">#ffffff</color>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for Latin keyboard  -->
+    <string name="ime_name">AIarab Soft Keyboard</string>
+
+    <!-- Symbols that are commonly considered word separators in this language -->
+    <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
+    
+    <!-- Labels on soft keys -->
+    <string name="label_go_key">Go</string>
+    <string name="label_next_key">Next</string>
+    <string name="label_send_key">Send</string>
+
+    <!-- Labels for subtype -->
+    <string name="label_subtype_arabic_1">عربي 1+4</string>
+    <string name="label_subtype_arabic_2">عربي 2</string>
+    <string name="label_subtype_arabic_3">عربي 3</string>
+    <string name="label_subtype_arabic_4">عربي 4</string>
+    <string name="label_subtype_arabic_5">عربي 5</string>
+    <string name="label_subtype_en_GB">English</string>
+
+    <!-- Titles for ImePreference -->
+    <string name="settings_name">AIarab Soft Keyboard Settings</string>
+    <string name="language_selection_title">Input languages</string>
+    <string name="select_language">Select input languages</string>
+    <string name="general_category">General</string>
+</resources>

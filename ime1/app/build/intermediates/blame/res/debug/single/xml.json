@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\arabic_alpha.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\arabic_alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols_shift.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ime_preferences.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\ime_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\arabic_normal.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\arabic_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\arabic_result.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\arabic_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\arabic_seed.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\arabic_seed.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\arabic_old.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\arabic_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\xml\\qwerty1.xml",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\xml\\qwerty1.xml"
+    }
+]

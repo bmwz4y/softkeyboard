@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<input-method xmlns:android="http://schemas.android.com/apk/res/android"
+        android:settingsActivity="com.example.android.softkeyboard.ImePreferences"
+>
+    <subtype
+        android:label="@string/label_subtype_en_GB"
+        android:imeSubtypeLocale="en_GB"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/label_subtype_arabic_1"
+        android:imeSubtypeLocale="ar_1"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/label_subtype_arabic_2"
+        android:imeSubtypeLocale="ar_2"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/label_subtype_arabic_3"
+        android:imeSubtypeLocale="ar_3"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/label_subtype_arabic_4"
+        android:imeSubtypeLocale="ar_4"
+        android:imeSubtypeMode="keyboard" />
+    <subtype
+        android:label="@string/label_subtype_arabic_5"
+        android:imeSubtypeLocale="ar_5"
+        android:imeSubtypeMode="keyboard" />
+</input-method>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_old_globe.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_old_globe.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_search.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_search.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_qwerty1_globe.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_qwerty1_globe.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_return.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_return.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_result_globe.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_result_globe.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_delete.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_alpha_globe.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_alpha_globe.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_normal_globe.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_normal_globe.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_shift.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_shift.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_keyboard_space.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_keyboard_space.png"
+    },
+    {
+        "merged": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sym_seed_globe.png",
+        "source": "C:\\Users\\YEH\\AndroidStudioProjects\\ime1\\app\\src\\main\\res\\drawable-hdpi\\sym_seed_globe.png"
+    }
+]
